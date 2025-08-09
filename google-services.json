@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "954954606528",
+    "project_id": "terminheld-f5ad1",
+    "storage_bucket": "terminheld-f5ad1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954954606528:android:cf05f034ffe5957b080a25",
+        "android_client_info": {
+          "package_name": "com.example.meinapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcPtVZKupj1DgrVAdMSTihr_eLna7aRxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
